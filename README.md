@@ -1,16 +1,15 @@
 ## Hi there 👋
+I am Rutuja, a self made Datascience/ML enthusiast from India 
 
-<!--
-**RutujaPatil04/RutujaPatil04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently exploring 
+<image width=900 alt= "https://github.com/user-attachments/assets/7f570b42-fa0b-49a5-9aaf-5cee5bef2d22">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning the ropes of Generative AI! Currently fascinated with text data and having a blast.
+👯 Looking to team up with others in AI, ML, and DL projects.
+🤔 Could use a hand with complex neural network models.
+💬 Ask me anything about AI or fun coding hacks.
+
+
+
+
